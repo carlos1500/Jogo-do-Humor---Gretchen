@@ -1,4 +1,4 @@
-# Jogo-do-Humor---Gretchen
+# Jogo-do-Humor-Gretchen
 
 Repositório criado para disponibilização da página Jogo do Humor - Gretchen. 
 
